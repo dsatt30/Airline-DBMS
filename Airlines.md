@@ -1,8 +1,3 @@
----
-layout: default
-title: Airline DBMS
----
-
 
 # Database Systems Final Project
 CS 5040 Final Project
