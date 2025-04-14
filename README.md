@@ -1,2 +1,5 @@
-# Airline-DBMS
-Development and Implantation of database system that maps a flight/customer all the way from purchase of the ticket to the moment each plane lands by tracking airline and airport capacity and scheduling constraints.
+# Database Systems Final Projcet
+CS 5040 Final Project
+
+To execute this file use the runscript provided in the course package on silk server, and run the file Satterthwaite_Kumar_Airport_CS5040_Final.sql on the SQL server as follows :
+@runscript Satterthwaite_Kumar_Airport_CS5040_Final
